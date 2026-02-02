@@ -42,6 +42,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwahari-r/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vishwahari/)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/vishwahari06)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/vishwahari06)
+
 
 ---
 
@@ -68,6 +70,10 @@
   <a href="https://www.hackerrank.com/profile/vishwahari06">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
   </a>
+  <a href="https://www.geeksforgeeks.org/profile/vishwahari06">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+
 </div>
 
 #### 📈 LeetCode Stats
@@ -81,6 +87,14 @@
 - Earned badges in **Problem Solving** and **Python** tracks.
 
 🔗 [Check Out My HackerRank Profile](https://www.hackerrank.com/profile/vishwahari06)
+
+#### 🟢 GeeksforGeeks Achievements
+
+- **Profile:** vishwahari06  
+- Actively practicing **DSA problems** in Arrays, Strings, Recursion, and Linked Lists  
+- Focusing on **Java-based problem solving** and core concepts
+
+🔗 [Check Out My GeeksforGeeks Profile](https://www.geeksforgeeks.org/profile/vishwahari06)
 
 ---
 
